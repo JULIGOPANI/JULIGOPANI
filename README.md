@@ -10,12 +10,16 @@
 
 📫 How to reach me juligopani2004@gmail.com
 
+<!-- Add this in the <head> of your HTML if not already included -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <h1 align="left">🌐 Socials:</h1>
 <p align="left">
   <a href="https://linkedin.com/in/juli-gopani-99175b25a" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+    <i class="fab fa-linkedin" style="font-size:30px; color:#0A66C2;"></i>
   </a>
 </p>
+
 
 <h1 align="left">🛠 Languages and Tools:</h1>
 
