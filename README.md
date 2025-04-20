@@ -17,9 +17,11 @@
 <h1 align="left">🌐 Socials:</h1>
 <p align="left">
   <a href="https://linkedin.com/in/juli-gopani-99175b25a" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="30" width="30" />
   </a>
 </p>
+
+
 
 
 
