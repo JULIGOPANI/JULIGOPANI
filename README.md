@@ -12,8 +12,11 @@
 
 <h1 align="left">🌐 Socials:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/juli-gopani-99175b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/juli-gopani-99175b25a" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/juli-gopani-99175b25a" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
+
 <h1 align="left">🛠 Languages and Tools:</h1>
 
 
